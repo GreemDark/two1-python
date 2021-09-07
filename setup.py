@@ -12,7 +12,7 @@ from setuptools import setup
 install_requires = [
     'arrow',
     'base58',
-    'click==6.6',
+    'click>=7.0',
     'docker-py==1.8.0',
     'flake8',
     'jsonrpcclient==2.0.1',
